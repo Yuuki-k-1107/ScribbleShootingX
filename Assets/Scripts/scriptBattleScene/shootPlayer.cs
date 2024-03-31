@@ -63,7 +63,9 @@ public class shootPlayer : ShootingScript
         }
         if (Input.GetKeyDown(KeyCode.C))
         {
-            List<Vector2> trajectoryData = data.bulletSaveData["0"].trajectoryData;
+            #region cut
+            Debug.Log("This function is obsolete");
+            /*List<Vector2> trajectoryData = data.bulletSaveData["0"].trajectoryData;
             if (trajectoryData != null)
             {
                 float coef = 10f;
@@ -74,29 +76,8 @@ public class shootPlayer : ShootingScript
                 int idx = 0;
                 foreach (Vector2 point in trajectoryData)
                 {
-                    #region �v��
-                    /*if (idx == 0)
-                        // �����ŏ��̍��W�Ȃ�
-                    {
-                        initial = point;
-                        tempPoint = point;
-                        temp.Add(startPosition / coef);
-                    }
-                    else
-                    {
-                        // �O�̓_�ƌ��݂̓_�̒��_��ǉ�
-                        temp.Add((((point + tempPoint) / 2) + startPosition - initial) / coef);
-
-                        temp.Add((point + startPosition - initial) / coef);
-                        // tempPoint ���X�V
-                        tempPoint = point;
-                    }
-                    print($"index : {idx}");
-                    idx++;*/
-                    #endregion
-                    #region �̗p��
+                    #region 
                     if (idx == 0)
-                    // �����ŏ��̍��W�Ȃ�
                     {
                         initial = point;
                         tempPoint = point;
@@ -104,10 +85,8 @@ public class shootPlayer : ShootingScript
                     }
                     else
                     {
-                        // division��1���傫����
                         if (division > 1)
                         {
-                            // i:(division-i)�ɓ�������_�ɑΉ�����x�N�g����ǉ�����
                             for (int i = 1; i < division; i++)
                             {
                                 float newx = (i * point.y + (division - i) * tempPoint.y) / (division * coef);
@@ -116,13 +95,13 @@ public class shootPlayer : ShootingScript
                             }
                         }
                         #region division=2
-                        // �O�̓_�ƌ��݂̓_�̒��_��ǉ�
-                        /*                        float newx = (point.y + tempPoint.y) / (2 * coef);
+                        // 
+                        *//*                        float newx = (point.y + tempPoint.y) / (2 * coef);
                                                 float newy = (point.x + tempPoint.x) / (2 * coef);
-                                                temp.Add(new Vector2(newx,newy));*/
+                                                temp.Add(new Vector2(newx,newy));*//*
                         #endregion
                         temp.Add(new Vector2(point.y / coef, point.x / coef));
-                        // tempPoint ���X�V
+                        // tempPointを更新
                         tempPoint = point;
                     }
                     print($"index : {idx}");
@@ -132,15 +111,12 @@ public class shootPlayer : ShootingScript
                 trajectory = temp.Select(item => item).ToList();
                 temp.Clear();
                 Fire(trajectory);
-            }
-            
+            }*/
+            #endregion
         }
-        if (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.Z))
+        if (/*Input.GetKeyDown(KeyCode.Space) || */Input.GetKeyDown(KeyCode.Z))
         {
-            if (!myName.Equals("CPU"))
-            {
-               Fire();
-            }
+            Fire();
         }
         if (Input.GetMouseButtonDown(0))
         {

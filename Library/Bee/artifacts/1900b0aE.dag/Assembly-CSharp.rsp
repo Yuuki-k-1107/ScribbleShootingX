@@ -434,6 +434,8 @@
 "Assets/Scripts/UIScripts/FlashUIManager.cs"
 "Assets/Scripts/UIScripts/GameOverManager.cs"
 "Assets/Scripts/UIScripts/ModeUIManager.cs"
+"Assets/Scripts/UIScripts/OnClickCloseCanvas.cs"
+"Assets/Scripts/UIScripts/PauseFunctions.cs"
 "Assets/Scripts/UIScripts/PauseManager.cs"
 "Assets/Scripts/UIScripts/ScoreManager.cs"
 "Assets/Scripts/UIScripts/SelectedManager.cs"

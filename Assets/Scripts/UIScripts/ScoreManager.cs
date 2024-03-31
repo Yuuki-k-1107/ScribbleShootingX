@@ -9,7 +9,7 @@ public class ScoreManager : MonoBehaviour
     public static int score = 0;
     private TMP_Text scoreText;
     public LevelManager levelManager;
-    // Start is called before the first frame update
+
     void Start()
     {
         if (!CPUBehaviour.isVsCPU)
@@ -24,7 +24,6 @@ public class ScoreManager : MonoBehaviour
         score += amount;
     }
 
-    // Update is called once per frame
     void Update()
     {
         if (scoreText != null) UpdateText();

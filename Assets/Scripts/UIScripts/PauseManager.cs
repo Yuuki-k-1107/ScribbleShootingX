@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PauseManager : MonoBehaviour
 {
@@ -15,17 +16,22 @@ public class PauseManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.P)/* || Input.GetKeyDown(KeyCode.Space)*/)
+        if (Input.GetKeyDown(KeyCode.P) || Input.GetKeyDown(KeyCode.Space))
         {
             if (isPaused)
             {
-                isPaused = false;
-                Time.timeScale = 1;
+                PauseFunctions.Resume();
             }
             else
             {
-                isPaused = true;
-                Time.timeScale = 0;
+                PauseFunctions.Pause();
+            }
+        }
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            if (isPaused)
+            {
+                TitleScreenManager.BackToTitle();
             }
         }
         pauseCanvas.enabled = isPaused;

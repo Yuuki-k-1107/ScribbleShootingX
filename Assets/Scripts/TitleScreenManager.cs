@@ -5,33 +5,48 @@ using UnityEngine.SceneManagement;
 
 public class TitleScreenManager : MonoBehaviour
 {
-    // ƒXƒRƒAƒAƒ^ƒbƒNƒ‚[ƒh
+    void Start()
+    {
+        if(SceneManager.GetActiveScene().name == "TitleScene")
+        GameObject.Find("InstructionCanvas").GetComponent<Canvas>().enabled = false;
+    }
+
+    // ã‚¹ã‚³ã‚¢ã‚¢ã‚¿ãƒƒã‚¯ãƒ¢ãƒ¼ãƒ‰
     public void StartScoreAttack()
     {
         CPUBehaviour.isVsCPU = false;
+        PauseFunctions.Resume();
         ScoreManager.ResetScore();
         SceneManager.LoadScene("MainScene");
     }
 
-    // CPUƒ‚[ƒh
+    // CPUãƒ¢ãƒ¼ãƒ‰
     public void StartVSCPU()
     {
         CPUBehaviour.isVsCPU = true;
+        PauseFunctions.Resume();
         SceneManager.LoadScene("MainScene");
     }
 
-    // ‹O“¹ƒGƒfƒBƒbƒg
+    // è»Œé“ã‚¨ãƒ‡ã‚£ãƒƒãƒˆ
     public void Edit()
     {
         SceneManager.LoadScene("trajectory");
     }
 
-    public void BackToTitle()
+    // ã‚¿ã‚¤ãƒˆãƒ«ã«æˆ»ã‚‹
+    public static void BackToTitle()
     {
         SceneManager.LoadScene("TitleScene");
     }
 
-    // ƒQ[ƒ€I—¹
+    // ãƒ˜ãƒ«ãƒ—è¡¨ç¤º
+    public void ShowHelp()
+    {
+        GameObject.Find("InstructionCanvas").GetComponent<Canvas>().enabled = true;
+    }
+
+    // ã‚²ãƒ¼ãƒ çµ‚äº†
     public void QuitGame()
     {
         Application.Quit();

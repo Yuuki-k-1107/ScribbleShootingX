@@ -197,7 +197,7 @@ public class ShootingScript : MonoBehaviour
     protected void Temporary(List<Vector2> vectors)
     {
         if (!CanShoot()) { return; }
-        Vector2 initial = (vectors[1] - vectors[0]).normalized;
+        Vector2 initial = (vectors[1]).normalized;
         List<Vector2> list = new List<Vector2>();
         list.Add(initial);
         GameObject bullet = Instantiate(bulletPrefab[bulletId], this.transform.position, transform.rotation);
@@ -205,7 +205,7 @@ public class ShootingScript : MonoBehaviour
         bb.isDrawn = true;
         for (int i = 2; i < vectors.Count; i++)
         {
-            list.Add((vectors[i] - vectors[i - 1]).normalized);
+            list.Add((vectors[i]).normalized);
         }
         bb.SetList(list);
         AfterShot(this.GetComponent<mainBehaviour>(), bulletPrefab[bulletId].GetComponent<BulletBehavior>());

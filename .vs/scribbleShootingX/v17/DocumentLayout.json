@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\assets\\scripts\\titlescreenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\titlescreenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|c:\\users\\yuuki\\scribbleshootingx\\scribbleshootingx\\assets\\scripts\\uiscripts\\onclickclosecanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uiscripts\\onclickclosecanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|c:\\users\\yuuki\\scribbleshootingx\\scribbleshootingx\\assets\\scripts\\uiscripts\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uiscripts\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|c:\\users\\yuuki\\scribbleshootingx\\scribbleshootingx\\assets\\scripts\\machinebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\machinebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\assets\\scripts\\scriptbattlescene\\shootplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptbattlescene\\shootplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,36 +27,40 @@
       "RelativeMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shootingscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|c:\\users\\yuuki\\scribbleshootingx\\scribbleshootingx\\assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|c:\\users\\yuuki\\scribbleshootingx\\scribbleshootingx\\assets\\scripts\\spawnenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\assets\\scripts\\spawnenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\assets\\scripts\\uiscripts\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uiscripts\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\assets\\scripts\\uiscripts\\flashuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uiscripts\\flashuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\assets\\scripts\\machinebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\machinebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\assets\\scripts\\uiscripts\\pausefunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uiscripts\\pausefunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\assets\\scripts\\uiscripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uiscripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\assets\\scripts\\attributebehabiour\\stormbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attributebehabiour\\stormbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\assets\\scripts\\uiscripts\\turnblueinscoreattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uiscripts\\turnblueinscoreattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\assets\\scripts\\attributebehabiour\\bombguide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attributebehabiour\\bombguide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\assets\\scripts\\uiscripts\\modeuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uiscripts\\modeuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\assets\\scripts\\uiscripts\\flashuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uiscripts\\flashuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\assets\\scripts\\attributebehabiour\\stormbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attributebehabiour\\stormbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\assets\\scripts\\uiscripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -77,10 +97,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\assets\\scripts\\mainbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\assets\\scripts\\titlescreenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\titlescreenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40C03949-3216-4D18-793E-B09802A00DD2}|Assembly-CSharp.csproj|C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\assets\\scripts\\enemybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -166,31 +182,118 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PauseManager.cs",
-              "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\UIScripts\\PauseManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UIScripts\\PauseManager.cs",
-              "ToolTip": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\UIScripts\\PauseManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UIScripts\\PauseManager.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAUwB4AAAAnAAAA",
+              "DocumentIndex": 1,
+              "Title": "OnClickCloseCanvas.cs",
+              "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\UIScripts\\OnClickCloseCanvas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIScripts\\OnClickCloseCanvas.cs",
+              "ToolTip": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\UIScripts\\OnClickCloseCanvas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIScripts\\OnClickCloseCanvas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T08:56:01.194Z"
+              "WhenOpened": "2024-03-31T08:16:33.785Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ScoreManager.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\UIScripts\\ScoreManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UIScripts\\ScoreManager.cs",
               "ToolTip": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\UIScripts\\ScoreManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\UIScripts\\ScoreManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAbAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-30T07:32:55.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "PauseManager.cs",
+              "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\UIScripts\\PauseManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIScripts\\PauseManager.cs",
+              "ToolTip": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\UIScripts\\PauseManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIScripts\\PauseManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T08:56:01.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TitleScreenManager.cs",
+              "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\TitleScreenManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TitleScreenManager.cs",
+              "ToolTip": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\TitleScreenManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TitleScreenManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T12:24:12.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PauseFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\UIScripts\\PauseFunctions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIScripts\\PauseFunctions.cs",
+              "ToolTip": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\UIScripts\\PauseFunctions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIScripts\\PauseFunctions.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA3wBUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T06:11:26.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TurnBlueInScoreAttack.cs",
+              "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\UIScripts\\TurnBlueInScoreAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIScripts\\TurnBlueInScoreAttack.cs",
+              "ToolTip": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\UIScripts\\TurnBlueInScoreAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIScripts\\TurnBlueInScoreAttack.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T07:42:28.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BombGuide.cs",
+              "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\AttributeBehabiour\\BombGuide.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AttributeBehabiour\\BombGuide.cs",
+              "ToolTip": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\AttributeBehabiour\\BombGuide.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AttributeBehabiour\\BombGuide.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwBoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T13:08:34.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ModeUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\UIScripts\\ModeUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIScripts\\ModeUIManager.cs",
+              "ToolTip": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\UIScripts\\ModeUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIScripts\\ModeUIManager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwBEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T10:31:17.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelManager.cs",
+              "ToolTip": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T05:43:28.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "FlashUIManager.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\UIScripts\\FlashUIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UIScripts\\FlashUIManager.cs",
@@ -202,32 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LevelManager.cs",
-              "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\LevelManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelManager.cs",
-              "ToolTip": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\LevelManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\LevelManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T05:43:28.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TurnBlueInScoreAttack.cs",
-              "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\UIScripts\\TurnBlueInScoreAttack.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UIScripts\\TurnBlueInScoreAttack.cs",
-              "ToolTip": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\UIScripts\\TurnBlueInScoreAttack.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UIScripts\\TurnBlueInScoreAttack.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABpAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T07:42:28.667Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "BombBehaviour.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\AttributeBehabiour\\BombBehaviour.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AttributeBehabiour\\BombBehaviour.cs",
@@ -239,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 38,
               "Title": "BombGuide.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\BombGuide.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BombGuide.cs",
@@ -251,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 39,
               "Title": "BulletBehavior.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\BulletBehavior.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BulletBehavior.cs",
@@ -263,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "FlashUIManager.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\FlashUIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FlashUIManager.cs",
@@ -275,19 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "TitleScreenManager.cs",
-              "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\TitleScreenManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TitleScreenManager.cs",
-              "ToolTip": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\TitleScreenManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TitleScreenManager.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T12:24:12.464Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "ButtonArranger.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\ButtonArranger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonArranger.cs",
@@ -299,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "BulletShooter.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\ModeBehaviour\\BulletShooter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ModeBehaviour\\BulletShooter.cs",
@@ -311,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "shootCPU.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\scriptAI\\shootCPU.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\scriptAI\\shootCPU.cs",
@@ -323,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "ModeManager.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\ModeManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ModeManager.cs",
@@ -337,62 +403,60 @@
         },
         {
           "DockedWidth": 252,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "machineBehaviour.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\machineBehaviour.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\machineBehaviour.cs",
               "ToolTip": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\machineBehaviour.cs",
               "RelativeToolTip": "Assets\\Scripts\\machineBehaviour.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAJAAAA",
+              "ViewState": "AQIAAFAAAACAii4ux+8iwEMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T08:10:55.985Z"
+              "WhenOpened": "2024-03-30T08:10:55.985Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ShootingScript.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\ShootingScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ShootingScript.cs",
               "ToolTip": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\ShootingScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\ShootingScript.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAkwBoAAAALAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwCUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T08:29:44.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-06T08:29:44.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "SpawnEnemy.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\SpawnEnemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnEnemy.cs",
               "ToolTip": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\SpawnEnemy.cs",
               "RelativeToolTip": "Assets\\Scripts\\SpawnEnemy.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAuwCgAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T05:38:38.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-29T05:38:38.747Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "shootPlayer.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\scriptBattleScene\\shootPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\scriptBattleScene\\shootPlayer.cs",
               "ToolTip": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\scriptBattleScene\\shootPlayer.cs",
               "RelativeToolTip": "Assets\\Scripts\\scriptBattleScene\\shootPlayer.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAuwBoAAAAmAAAA",
+              "ViewState": "AQIAACYAAAAA8bV6JnAtwEIAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T13:27:54.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T13:27:54.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "StormBehavior.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\AttributeBehabiour\\StormBehavior.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AttributeBehabiour\\StormBehavior.cs",
@@ -404,7 +468,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "GameOverManager.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\UIScripts\\GameOverManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UIScripts\\GameOverManager.cs",
@@ -416,7 +480,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "FireBehaviour.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\AttributeBehabiour\\FireBehaviour.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AttributeBehabiour\\FireBehaviour.cs",
@@ -428,7 +492,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "BulletBehavior.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\AttributeBehabiour\\BulletBehavior.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AttributeBehabiour\\BulletBehavior.cs",
@@ -440,7 +504,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "RockBehaviour.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\AttributeBehabiour\\RockBehaviour.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AttributeBehabiour\\RockBehaviour.cs",
@@ -452,7 +516,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "LeadBehaviour.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\AttributeBehabiour\\LeadBehaviour.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AttributeBehabiour\\LeadBehaviour.cs",
@@ -464,7 +528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "IceBehaviour.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\AttributeBehabiour\\IceBehaviour.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AttributeBehabiour\\IceBehaviour.cs",
@@ -476,7 +540,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "CannonBehaviour.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\AttributeBehabiour\\CannonBehaviour.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AttributeBehabiour\\CannonBehaviour.cs",
@@ -488,7 +552,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 41,
               "Title": "BlinkText.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\UIScripts\\BlinkText.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UIScripts\\BlinkText.cs",
@@ -500,7 +564,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "mainBehaviour.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\mainBehaviour.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\mainBehaviour.cs",
@@ -512,7 +576,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "EnemyBehavior.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\EnemyBehavior.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyBehavior.cs",
@@ -524,7 +588,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "saveData.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\saveData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\saveData.cs",
@@ -536,7 +600,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "dataManager.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\dataManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\dataManager.cs",
@@ -548,7 +612,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "saveButtonClick.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\saveButtonClick.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\saveButtonClick.cs",
@@ -560,7 +624,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "loadButtonTrue.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\loadButtonTrue.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\loadButtonTrue.cs",
@@ -572,7 +636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "CPUBehaviour.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\CPUBehaviour.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CPUBehaviour.cs",
@@ -584,7 +648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "MoveVertical.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\Experimental\\MoveVertical.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Experimental\\MoveVertical.cs",
@@ -596,7 +660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "EnergyController.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\EnergyController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnergyController.cs",
@@ -608,7 +672,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "drawCanvas.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\drawCanvas.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\drawCanvas.cs",
@@ -620,7 +684,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 37,
               "Title": "HPBar.cs",
               "DocumentMoniker": "C:\\Users\\yuuki\\scribbleShootingX\\scribbleShootingX\\Assets\\Scripts\\HPBar.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HPBar.cs",
